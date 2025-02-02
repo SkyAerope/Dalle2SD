@@ -1,0 +1,2 @@
+# Dalle2SD
+使硅基流动Stable Diffusion接口适配Openai生成图片的接口，使用Azure函数
