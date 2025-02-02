@@ -1,7 +1,7 @@
 # Dalle2SD
 使硅基流动Stable Diffusion接口适配Openai生成图片的接口，使用Azure函数
 
-返回为`b64_json`
+接口地址`https:/<sitename>.azurewebsites.net/api/images/generations`返回为`b64_json`
 
 ## 如何使用？
 先决条件：拥有Azure订阅
